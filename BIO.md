@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Txniay
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#
-- 📫 How to reach me @qixxic on discord
-- 😄 Pronouns: Man
